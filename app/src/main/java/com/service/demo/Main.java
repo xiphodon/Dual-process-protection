@@ -15,7 +15,6 @@ import android.widget.Button;
 import com.example.servicetest2.R;
 /**
  * Service双进程守护
- * @author 掌缘生灭
  *
  */
 public class Main extends Activity implements OnClickListener {
