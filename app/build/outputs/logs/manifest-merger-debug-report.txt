@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:1:1-28:12
+	package
+		ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:2:5-39
+		INJECTED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml
+application
+ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:10:5-26:19
+	android:label
+		ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:13:9-41
+	android:allowBackup
+		ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:12:9-45
+	android:theme
+		ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.service.demo.Main
+ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:16:9-21:20
+	android:name
+		ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:16:19-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:19:27-74
+service#com.service.demo.Service1
+ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:23:9-120
+	android:enabled
+		ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:23:18-40
+	android:process
+		ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:23:82-109
+	android:name
+		ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:23:41-81
+service#com.service.demo.Service2
+ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:24:9-120
+	android:enabled
+		ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:24:18-40
+	android:process
+		ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:24:82-109
+	android:name
+		ADDED from F:\work\ServiceTest2\app\src\main\AndroidManifest.xml:24:41-81
